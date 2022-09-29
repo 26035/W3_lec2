@@ -1,0 +1,13 @@
+C:\Users\Laury\OneDrive\Documents\A3 ESILV\S5 Dublin\Lecture_6_c_sharp\Lecture_6_c_sharp\obj\Debug\netcoreapp3.1\Lecture_6_c_sharp.csprojAssemblyReference.cache
+C:\Users\Laury\OneDrive\Documents\A3 ESILV\S5 Dublin\Lecture_6_c_sharp\Lecture_6_c_sharp\obj\Debug\netcoreapp3.1\Lecture_6_c_sharp.AssemblyInfoInputs.cache
+C:\Users\Laury\OneDrive\Documents\A3 ESILV\S5 Dublin\Lecture_6_c_sharp\Lecture_6_c_sharp\obj\Debug\netcoreapp3.1\Lecture_6_c_sharp.AssemblyInfo.cs
+C:\Users\Laury\OneDrive\Documents\A3 ESILV\S5 Dublin\Lecture_6_c_sharp\Lecture_6_c_sharp\obj\Debug\netcoreapp3.1\Lecture_6_c_sharp.csproj.CoreCompileInputs.cache
+C:\Users\Laury\OneDrive\Documents\A3 ESILV\S5 Dublin\Lecture_6_c_sharp\Lecture_6_c_sharp\bin\Debug\netcoreapp3.1\Lecture_6_c_sharp.exe
+C:\Users\Laury\OneDrive\Documents\A3 ESILV\S5 Dublin\Lecture_6_c_sharp\Lecture_6_c_sharp\bin\Debug\netcoreapp3.1\Lecture_6_c_sharp.deps.json
+C:\Users\Laury\OneDrive\Documents\A3 ESILV\S5 Dublin\Lecture_6_c_sharp\Lecture_6_c_sharp\bin\Debug\netcoreapp3.1\Lecture_6_c_sharp.runtimeconfig.json
+C:\Users\Laury\OneDrive\Documents\A3 ESILV\S5 Dublin\Lecture_6_c_sharp\Lecture_6_c_sharp\bin\Debug\netcoreapp3.1\Lecture_6_c_sharp.runtimeconfig.dev.json
+C:\Users\Laury\OneDrive\Documents\A3 ESILV\S5 Dublin\Lecture_6_c_sharp\Lecture_6_c_sharp\bin\Debug\netcoreapp3.1\Lecture_6_c_sharp.dll
+C:\Users\Laury\OneDrive\Documents\A3 ESILV\S5 Dublin\Lecture_6_c_sharp\Lecture_6_c_sharp\bin\Debug\netcoreapp3.1\Lecture_6_c_sharp.pdb
+C:\Users\Laury\OneDrive\Documents\A3 ESILV\S5 Dublin\Lecture_6_c_sharp\Lecture_6_c_sharp\obj\Debug\netcoreapp3.1\Lecture_6_c_sharp.dll
+C:\Users\Laury\OneDrive\Documents\A3 ESILV\S5 Dublin\Lecture_6_c_sharp\Lecture_6_c_sharp\obj\Debug\netcoreapp3.1\Lecture_6_c_sharp.pdb
+C:\Users\Laury\OneDrive\Documents\A3 ESILV\S5 Dublin\Lecture_6_c_sharp\Lecture_6_c_sharp\obj\Debug\netcoreapp3.1\Lecture_6_c_sharp.genruntimeconfig.cache
